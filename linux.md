@@ -9,3 +9,6 @@ extract the contents
 
 transfering file to another server  
 `scp filename.tar.gz [user]@[ipserver]:/folder/`
+
+return the current directory
+`basename $PWD`
